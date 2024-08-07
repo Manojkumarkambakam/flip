@@ -4,3 +4,4 @@ this lin is also merging into main branch
 #And also practicing the commands in git from linux.
 #And also practicing the coflicts session;and dividing into to barnches
 Addind the new line
+Another line to check the git pull command is orking or not
