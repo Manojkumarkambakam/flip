@@ -1,0 +1,7 @@
+To install maven-------------------
+
+#Pre requesties -------------
+jdk
+jre
+sudo apt-get maven
+sudo apt-get install maven
